@@ -1,0 +1,19 @@
+{
+    "name": "xs-khairul/pack05",
+    "description": "abc",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wpmett\\UtilityPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Khairul Hasib",
+            "email": "khairul@xpeedstudio.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
